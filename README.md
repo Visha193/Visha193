@@ -53,11 +53,13 @@ Vishal</a></h1>
 </p>
 
 # 📊 GitHub Stats:
+<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Visha193&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Visha193&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Visha193&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
+<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
