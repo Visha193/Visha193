@@ -10,8 +10,14 @@ Vishal</a></h1>
 <a href="https://github.com/Visha193?tab=followers"><img src="https://img.shields.io/github/followers/Visha193?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
-# 💫 About Me:
-### Hi there, I'm Vishal Shah! 👋<br><br>🎓 I am currently pursuing a B.Tech degree at GL Bajaj Institute of Technology, with a strong focus on **DevOps** and **Java development**.<br><br>💻 I have a keen interest in **software engineering** and thoroughly enjoy working with **C++** and **Java** languages.<br><br>🚀 Alongside my studies, I actively engage in **projects** to enhance my skills and gain practical experience.<br><br>  🕹️ In my free time, I indulge in my hobbies:<br> - ♟️ Playing chess, which has taught me **strategic thinking** and **problem-solving skills**.<br> - 🏐 Playing volleyball, which allows me to foster **teamwork** and **collaboration**.<br><br>🌟 I am passionate about leveraging **technology to solve real-world problems** and thrive in dynamic and challenging environments.<br><br>📚 I am always eager to learn and explore new technologies and frameworks that can contribute to my professional growth.<br><br>🤝 Feel free to connect with me if you share similar interests or have any exciting opportunities in the field of **software engineering**, **DevOps**, or **Java development**. Let's connect and collaborate!<br><br>📫 You can reach me via [email](Vishal12kl@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/vishalshah001/).<br><br>Cheers!<br>
+# 🙋‍♂️ About Me
+
+- <img alt="GIF" src="https://github.com/Visha193/Visha193/blob/main/Assets/wave.gif" width="20px" /> I'm currently *learning* **DevOps** & **OOPS** 
+- <img alt="GIF" src="https://github.com/Visha193/Visha193/blob/main/Assets/gandalf_parrot.gif" width="20px" /> I’m looking to collaborate on **OpenSource Projects**
+- <img alt="GIF" src="https://github.com/Visha193/Visha193/blob/main/Assets/headbang.gif" width="20px" /> All of my projects are available at **[My Github Account](https://github.com/Visha193?tab=repositories)**
+- <img alt="GIF" src="https://github.com/Visha193/Visha193/blob/main/Assets/Handshake.gif" width="20px" /> You can reach me at [LinkedIn](https://www.linkedin.com/in/vishalshah001/) or send me a personalized **<a href="mailto:Vishal12kl@gmail.com?subject=Hola%20Vishal">mail</a>** 
+- <img alt="GIF" src="https://github.com/Visha193/Visha193/blob/main/Assets/happy.gif" width="20px" /> I try to: Go beyond and push the bounds
+- <img alt="GIF" src="https://github.com/Visha193/Visha193/blob/main/Assets/Rocket.gif" width="20px" /> Fun fact **I love reading books and Building stuff.**
 
 
 ## 🌐 Socials:
