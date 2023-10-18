@@ -21,6 +21,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Visha193&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Visha193&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+[![An image of @visha193's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/visha193)](https://holopin.io/@visha193)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
