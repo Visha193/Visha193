@@ -19,6 +19,26 @@ Vishal</a></h1>
 - <img alt="GIF" src="https://github.com/Visha193/Visha193/blob/main/Assets/happy.gif" width="20px" /> I try to: Go beyond and push the bounds
 - <img alt="GIF" src="https://github.com/Visha193/Visha193/blob/main/Assets/Rocket.gif" width="20px" /> Fun fact **I love reading books and Building stuff.**
 
+## 🚀 Languages and Tools:
+
+<p align="left">
+    
+<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="java" width="35px" src="https://img.icons8.com/color/48/null/java-coffee-cup-logo--v1.png" />
+<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="tailwind" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
+<img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="git-scm" width="35px" src="https://img.icons8.com/color/48/000000/git.png" />
+    <img align="left" alt="android" width="35px" src="https://img.icons8.com/fluency/48/000000/android-os.png" />
+    <img align="left" alt="firebase" width="35px" src="https://img.icons8.com/color/48/000000/google-firebase-console.png" />
+    <img align="left" alt="figma" width="35px" src="https://img.icons8.com/color/48/000000/figma--v2.png" />
+</p>
+<br/>
+<br/>
 
 ## 🌐 Socials:
 <a href="https://twitter.com/nevergivetime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nevergivetime" height="30" width="40" /></a>
