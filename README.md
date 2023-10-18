@@ -10,10 +10,6 @@ Vishal</a></h1>
 <a href="https://github.com/Visha193?tab=followers"><img src="https://img.shields.io/github/followers/Visha193?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-
 # 🙋‍♂️ About Me
 
 - <img alt="GIF" src="https://github.com/Visha193/Visha193/blob/main/Assets/wave.gif" width="20px" /> I'm currently *learning* **DevOps** & **OOPS** 
