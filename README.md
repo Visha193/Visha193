@@ -5,7 +5,7 @@ Vishal</a></h1>
 
 <p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src=https://visitcount.itsvg.in/api?id=Visha193&icon=0&color=0
+    <img src="https://komarev.com/ghpvc/?username=visha193">
 </a>
 <a href="https://github.com/Visha193?tab=followers"><img src="https://img.shields.io/github/followers/Visha193?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
