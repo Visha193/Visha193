@@ -3,6 +3,13 @@ Vishal</a></h1>
 
 <h3 align="center">I'm a Developer and now learning AI & DevOps.</h3>
 
+<p align="center">
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Visha193">
+</a>
+<a href="https://github.com/Visha193?tab=followers"><img src="https://img.shields.io/github/followers/Visha193?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
+
 # 💫 About Me:
 ### Hi there, I'm Vishal Shah! 👋<br><br>🎓 I am currently pursuing a B.Tech degree at GL Bajaj Institute of Technology, with a strong focus on **DevOps** and **Java development**.<br><br>💻 I have a keen interest in **software engineering** and thoroughly enjoy working with **C++** and **Java** languages.<br><br>🚀 Alongside my studies, I actively engage in **projects** to enhance my skills and gain practical experience.<br><br>  🕹️ In my free time, I indulge in my hobbies:<br> - ♟️ Playing chess, which has taught me **strategic thinking** and **problem-solving skills**.<br> - 🏐 Playing volleyball, which allows me to foster **teamwork** and **collaboration**.<br><br>🌟 I am passionate about leveraging **technology to solve real-world problems** and thrive in dynamic and challenging environments.<br><br>📚 I am always eager to learn and explore new technologies and frameworks that can contribute to my professional growth.<br><br>🤝 Feel free to connect with me if you share similar interests or have any exciting opportunities in the field of **software engineering**, **DevOps**, or **Java development**. Let's connect and collaborate!<br><br>📫 You can reach me via [email](Vishal12kl@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/vishalshah001/).<br><br>Cheers!<br>
 
