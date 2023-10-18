@@ -53,7 +53,6 @@ Vishal</a></h1>
  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
-[![An image of @visha193's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/visha193)](https://holopin.io/@visha193)
 
 ## 🌐 Socials:
 <a href="https://twitter.com/nevergivetime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nevergivetime" height="30" width="40" /></a>
