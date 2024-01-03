@@ -41,7 +41,7 @@ Vishal</a></h1>
 <br/>
 <br/>
 
-![Gaurav's Last 30 Days Github Activity Graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=Visha193&theme=tokyo-night)
+![Vishal's Last 30 Days Github Activity Graph](https://vishal-github-readme-activity-graph.vercel.app/graph?username=Visha193&theme=tokyo-night)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Visha193&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/>
