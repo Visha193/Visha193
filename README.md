@@ -44,7 +44,7 @@ Vishal</a></h1>
 <p align="center"><a href="https://github.com/Visha193/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vishal Shah's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Visha193&theme=swift&hide_border=false"/>
 </a></p>
-<br/>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Visha193&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Visha193&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
