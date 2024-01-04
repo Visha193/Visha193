@@ -11,13 +11,15 @@ Vishal</a></h1>
 </p>
 
 # 🙋‍♂️ About Me 
+<p>
+<img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 - <img alt="GIF" src="https://github.com/Visha193/Visha193/blob/main/Assets/wave.gif" width="20px" /> I'm currently *learning* **DevOps** & **OOPS** 
 - <img alt="GIF" src="https://github.com/Visha193/Visha193/blob/main/Assets/gandalf_parrot.gif" width="20px" /> I’m looking to collaborate on **OpenSource Projects**
 - <img alt="GIF" src="https://github.com/Visha193/Visha193/blob/main/Assets/headbang.gif" width="20px" /> All of my projects are available at **[My Github Account](https://github.com/Visha193?tab=repositories)**
 - <img alt="GIF" src="https://github.com/Visha193/Visha193/blob/main/Assets/Handshake.gif" width="20px" /> You can reach me at [LinkedIn](https://www.linkedin.com/in/vishalshah001/) or send me a personalized **<a href="mailto:Vishal12kl@gmail.com?subject=Hola%20Vishal">mail</a>** 
 - <img alt="GIF" src="https://github.com/Visha193/Visha193/blob/main/Assets/happy.gif" width="20px" /> I try to: Go beyond and push the bounds
 - <img alt="GIF" src="https://github.com/Visha193/Visha193/blob/main/Assets/Rocket.gif" width="20px" /> Fun fact **I love reading books and Building stuff.**
-
+<p/>
 ## 🚀 Languages and Tools:
 
 <p align="left">
