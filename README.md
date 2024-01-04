@@ -18,7 +18,9 @@ Vishal</a></h1>
 - <img alt="GIF" src="https://github.com/Visha193/Visha193/blob/main/Assets/Handshake.gif" width="20px" /> You can reach me at [LinkedIn](https://www.linkedin.com/in/vishalshah001/) or send me a personalized **<a href="mailto:Vishal12kl@gmail.com?subject=Hola%20Vishal">mail</a>** 
 - <img alt="GIF" src="https://github.com/Visha193/Visha193/blob/main/Assets/happy.gif" width="20px" /> I try to: Go beyond and push the bounds
 - <img alt="GIF" src="https://github.com/Visha193/Visha193/blob/main/Assets/Rocket.gif" width="20px" /> Fun fact **I love reading books and Building stuff.**
-
+<a href="https://komarev.com/ghpvc/?username=Visha193">
+  <img align="right" src="https://komarev.com/ghpvc/?username=Visha193&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
 ## 🚀 Languages and Tools:
 
