@@ -46,9 +46,11 @@ Vishal</a></h1>
 </a></p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Visha193&theme=swift&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Visha193&theme=swift&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 <br/>
+    <a href="https://github.com/Visha193/github-readme-stats"><img alt="Vishal Shah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Visha193&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Visha193/github-readme-stats"><img alt="Vishal Shah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visha193&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+
 ![Gaurav's Last 30 Days Github Activity Graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=Visha193&theme=tokyo-night)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
