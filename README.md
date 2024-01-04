@@ -54,10 +54,6 @@ Vishal</a></h1>
 ![Gaurav's Last 30 Days Github Activity Graph](https://gaurav-github-readme-activity-graph.vercel.app/graph?username=Visha193&theme=tokyo-night)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<br/>
-<br/>
 ## 🌐 Socials:
 <a href="https://twitter.com/nevergivetime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nevergivetime" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vishalshah001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishalshah001" height="30" width="40" /></a>
