@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.google.com/search?q=Vishal Shah Gl Bajaj Institute of Technology" target="blank">
-Vishal</a></h1>
+<h1 align="center"><a href="https://www.google.com/search?q=Vishal Shah Gl Bajaj Institute of Technology" target="blank">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Vishal!;I'm+Full-stack+developer.;Let's+connect+and+build+a+better+future+together!;)](https://git.io/typing-svg)</a></h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Vishal!;I'm+Full-stack+developer.;Let's+connect+and+build+a+better+future+together!;)](https://git.io/typing-svg)
 
 <h3 align="center">I'm a Developer and now learning AI & DevOps.</h3>
 
