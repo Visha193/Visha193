@@ -1,8 +1,4 @@
-<h1 align="center" 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Vishal!;I'm+Full-stack+developer.;Let's+connect+and+build+a+better+future+together!;)](https://git.io/typing-svg)
-
-</h1>
+<h1 align="center"[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=                   Hey!+It's+Vishal!;I'm+Full-stack+developer.;Let's+connect+and+build+a+better+future+together!;)](https://git.io/typing-svg)</h1>
 
 <h3 align="center">I'm a Developer and now learning AI & DevOps.</h3>
 
@@ -23,6 +19,8 @@
 - <img alt="GIF" src="https://github.com/Visha193/Visha193/blob/main/Assets/Handshake.gif" width="20px" /> You can reach me at [LinkedIn](https://www.linkedin.com/in/vishalshah001/) or send me a personalized **<a href="mailto:Vishal12kl@gmail.com?subject=Hola%20Vishal">mail</a>** 
 - <img alt="GIF" src="https://github.com/Visha193/Visha193/blob/main/Assets/happy.gif" width="20px" /> I try to: Go beyond and push the bounds
 - <img alt="GIF" src="https://github.com/Visha193/Visha193/blob/main/Assets/Rocket.gif" width="20px" /> Fun fact **I love reading books and Building stuff.**
+  <br/>
+  <br/>
   <br/>
 ## 🚀 Languages and Tools:
 
@@ -50,7 +48,7 @@
 </a></p>
 
 # 📊 GitHub Stats:
-<a href="https://github.com/Visha193/github-readme-stats"><img alt="Vishal Shah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Visha193&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Visha193/github-readme-stats"><img alt="Vishal Shah's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Visha193&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=t0D1117" /></a>
   <a href="https://github.com/Visha193/github-readme-stats"><img alt="Vishal Shah's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Visha193&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
